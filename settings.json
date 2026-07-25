@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKBot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "theabysssmp.play.hosting",
-    "port": 6563,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
